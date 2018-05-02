@@ -1,0 +1,12 @@
+.pixel{
+    height:30px;
+    width:100%;
+    border:black;
+    border-width: 2px;
+    border-style: solid;
+    /* text-align:center; */
+    
+}
+.active-pixel{
+    background:black;
+}
